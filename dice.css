@@ -1,0 +1,26 @@
+body
+{
+    background-color: #192841;
+    color: white;
+}
+#title
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    border: 5px gray solid;
+    border-radius: 25px;
+    color: red;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+}
+.name
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+}
